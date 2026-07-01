@@ -1,0 +1,16 @@
+langchain
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-mistralai
+langchain-community
+python-dotenv
+pydantic
+fastapi
+uvicorn
+requests
+tiktoken
+faiss-cpu
+chromadb
+sentence-transformers
+streamlit
