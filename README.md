@@ -1,4 +1,4 @@
-# 🤖 AI Resume ATS Analyzer
+# 🤖 ResumePilot
 
 An AI-powered Resume Analyzer built with **Streamlit**, **LangChain**, and **Mistral AI** that evaluates a candidate's resume against a Job Description (JD) and generates a detailed ATS (Applicant Tracking System) compatibility report.
 
@@ -58,8 +58,8 @@ AI-Resume-Analyzer/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Akshaykompally/AI-Resume-Analyze.git
-cd AI-Resume-Analyze
+git clone https://github.com/Akshaykompally/ResumePilot.git
+cd ResumePilot
 ```
 
 Create a virtual environment (recommended):
@@ -91,7 +91,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project root.
 
 ```env
-MISTRAL_API_KEY=your_mistral_api_key
+MISTRAL_API_KEY = your_mistral_api_key
 ```
 
 Get your API key from the Mistral AI platform.
